@@ -64,15 +64,7 @@ export default function Purchaseorder() {
             <span></span>
         </div>
 
-{/* <div className="line1">
-  <table border="1">
-    <tr>
-      <td>
-        <span id="a">this is sick</span><span id="b">this is awesome</span>
-      </td>
-    </tr>
-  </table>
-</div> */}
+
         <div className="button-container">
       <div className="btn">
         <button className="save" type="submit">Save</button>

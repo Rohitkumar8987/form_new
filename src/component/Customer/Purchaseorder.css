@@ -160,19 +160,6 @@ border-radius: 6px solid #ABB2B9;
 
 
 
-/* .add_more{
-margin-top: 8%;
-background:transparent ;
-border: 1px solid #ABB2B9;
-height: 30px;
-width: 160px;
-position: absolute;
-top:80% ;
-left: 10%;
-transform: translate(-50%,-50%);
-overflow: hidden;
-
-} */
 .more_btn{
     /* cursor: pointer; */
     height: 60px;

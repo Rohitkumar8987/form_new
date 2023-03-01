@@ -38,14 +38,7 @@ export default function NewClient() {
        
         
       </div>
-      <div className="button-container">
-      <div className="btn">
-        <button className="save" type="submit">Save</button>
-        <div className="btn-o">
-        <button type="clear:  ">Cancel</button>
-        </div>
-        </div>
-      </div>
+     rt
       </form>
         </div>
    
